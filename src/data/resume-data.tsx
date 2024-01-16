@@ -76,7 +76,7 @@ export const RESUME_DATA = {
     },
     {
       company: "Freelance",
-      // link: "https://clevertech.biz",
+      link: "/",
       badges: ["Part-Time"],
       title: "Arquitecta",
       logo: ClevertechLogo,
@@ -112,14 +112,13 @@ export const RESUME_DATA = {
     },
     {
       company: "Estudio Roberto Lopez del Hoyo",
-      // link: "https://www.instagram.com/dfs.estudio/",
+      link: "/",
       badges: ["Part-Time"],
       title: "Arquitecta",
       logo: NSNLogo,
       start: "2021",
       end: "2021",
-      description:
-        "Dibujo técnico · Planos municipales · AutoCAD · SketchUp",
+      description: "Dibujo técnico · Planos municipales · AutoCAD · SketchUp",
     },
   ],
   skills: [
@@ -136,10 +135,7 @@ export const RESUME_DATA = {
   projects: [
     {
       title: "Sarasa Negro",
-      techStack: [
-        "Diseño de interiores",
-        "Dirección de obra",
-      ],
+      techStack: ["Diseño de interiores", "Dirección de obra"],
       description: "Restaurant de alto nivel en la ciudad de Mar del Plata",
       logo: ConsultlyLogo,
       link: {
@@ -150,8 +146,7 @@ export const RESUME_DATA = {
     {
       title: "Muu",
       techStack: ["Selección de mobiliario"],
-      description:
-        "Restaurant de carnes",
+      description: "Restaurant de carnes",
       logo: MonitoLogo,
       link: {
         label: "monito.dev",
@@ -160,10 +155,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Sarasa Negro",
-      techStack: [
-        "Diseño de interiores",
-        "Dirección de obra",
-      ],
+      techStack: ["Diseño de interiores", "Dirección de obra"],
       description: "Restaurant de alto nivel en la ciudad de Mar del Plata",
       logo: ConsultlyLogo,
       link: {
@@ -174,8 +166,7 @@ export const RESUME_DATA = {
     {
       title: "Muu",
       techStack: ["Selección de mobiliario"],
-      description:
-        "Restaurant de carnes",
+      description: "Restaurant de carnes",
       logo: MonitoLogo,
       link: {
         label: "monito.dev",
@@ -184,10 +175,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Sarasa Negro",
-      techStack: [
-        "Diseño de interiores",
-        "Dirección de obra",
-      ],
+      techStack: ["Diseño de interiores", "Dirección de obra"],
       description: "Restaurant de alto nivel en la ciudad de Mar del Plata",
       logo: ConsultlyLogo,
       link: {
@@ -198,8 +186,7 @@ export const RESUME_DATA = {
     {
       title: "Muu",
       techStack: ["Selección de mobiliario"],
-      description:
-        "Restaurant de carnes",
+      description: "Restaurant de carnes",
       logo: MonitoLogo,
       link: {
         label: "monito.dev",
